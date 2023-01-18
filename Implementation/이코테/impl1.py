@@ -1,5 +1,4 @@
 # p.110 상하좌우
-# https://www.acmicpc.net/problem/18406
 
 n = int(input())
 x, y = 1, 1

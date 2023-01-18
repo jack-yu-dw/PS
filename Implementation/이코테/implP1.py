@@ -1,4 +1,5 @@
 # p.321 럭키 스트레이트
+# https://www.acmicpc.net/problem/18406
 
 n = input()
 length = len(n)

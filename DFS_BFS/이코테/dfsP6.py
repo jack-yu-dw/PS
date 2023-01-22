@@ -1,4 +1,4 @@
-# p. 감시 피하기
+# p.351 감시 피하기 (dfs/bfs 대신 파이썬의 조합 라이브러리를 이용하여도 구현 가능)
 # https://www.acmicpc.net/problem/18428
 
 n = int(input())

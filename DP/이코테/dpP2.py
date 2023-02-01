@@ -22,3 +22,4 @@ for i in range(1, n):
 
 result = dp[n-1][:]
 print(max(result))
+# print(max(dp[n-1])) 로 한번에 출력 가능
